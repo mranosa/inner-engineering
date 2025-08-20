@@ -91,8 +91,6 @@ Classical Jyotisha does not rely on Uranus/Neptune/Pluto, though many modern Ved
 * **Gemini/Ardra rising** + **Moon in Purvashadha** explains the voice and the moral backbone in relationships. ([Wikipedia][14])
 * **Saturn 6th** (service) and **Mars 11th** (causes) describe the work engine and the social courage. ([Vaya][15], [Indastro][18])
 
-If you want, I can translate this into a one-page “Soul Operating Manual” you can keep on your desk, plus a simple mantra/ritual calendar keyed to your placements.
-
 [1]: https://en.wikipedia.org/wiki/Atmakaraka?utm_source=chatgpt.com "Atmakaraka"
 [2]: https://komilla.com/lib-atmakaraka.html?utm_source=chatgpt.com "Atmakaraka - Knowing the Souls Desire - Komilla"
 [3]: https://www.rahasyavedicastrology.com/uttara-bhadrapada-nakshatra/?utm_source=chatgpt.com "Uttara Bhadrapada Nakshatra Mythology & Secrets in Vedic ..."
